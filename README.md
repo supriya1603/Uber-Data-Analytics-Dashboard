@@ -1,7 +1,10 @@
 📊 Dashboard Overview
+
+
 This interactive dashboard provides insights into various aspects of Uber's ride-sharing operations, including booking patterns, vehicle performance, revenue analysis, cancellation trends, and rating distributions.
 
 Key Metrics Summary (2024)
+
 Total Bookings: 148.77K
 Success Rate: 65.96% (93K completed rides)
 Cancellation Rate: 25% (37.43K cancelled bookings)
@@ -11,21 +14,25 @@ Driver Cancellations: 7.45% (10.5K)
 This comprehensive dashboard is organized into 5 strategic view segments, each addressing specific business analytics questions:
 
 1. 📊 Overall Performance View
+2. 
 Ride Volume Over Time - Time-series chart tracking daily/weekly ride patterns to identify seasonal trends and demand fluctuations
 Booking Status Breakdown - Pie/doughnut chart displaying proportions of completed, cancelled by customer, cancelled by driver, and other booking statuses
-2. 🚗 Vehicle Type Analysis View
+3. 🚗 Vehicle Type Analysis View
 Top 5 Vehicle Types by Ride Distance - Table chart ranking vehicle types (Go Mini, Go Sedan, Auto, eBike/Bike, UberXL, Premier Sedan) based on total distance covered
-3. 💰 Revenue Analytics View
+4. 💰 Revenue Analytics View
+5. 
 Revenue by Payment Method - Stacked bar chart breaking down revenue streams across payment channels (UPI, Cash, Credit Cards, Uber Wallet, Debit Card)
 Top 5 Customers by Total Booking Value - Leaderboard visualization identifying high-value customers and their spending patterns
 Ride Distance Distribution Per Day - Histogram plot revealing daily operational coverage patterns and distance distribution insights
-4. 🚫 Cancellation Intelligence View
+6. 🚫 Cancellation Intelligence View
 Cancelled Rides Reasons (Customer) - Pie chart analysis examining customer-initiated cancellation drivers (Wrong Address, Change of Plans, Driver Issues, App Problems)
 Cancelled Rides Reasons (Driver) - Pie chart breakdown of driver-initiated cancellations (Customer Related Issues, Personal & Car Issues, Capacity Constraints)
-5. ⭐ Rating & Quality Assessment View
+7. ⭐ Rating & Quality Assessment View
 Driver Ratings Distribution - Card-based visualization displaying average driver ratings (4.23-4.24) across all vehicle types for easy comparison
+
 Customer Ratings Analysis - Card layout showcasing customer satisfaction ratings (4.40-4.41) across vehicle categories, enabling quality benchmarking
 🚗 Vehicle Fleet Analysis
+
 Vehicle Type	Total Bookings	Success Bookings	Avg Distance	Total Distance
 Go Mini	10.34M	9.41M	25.99 km	482K km
 Go Sedan	9.37M	8.54M	25.98 km	433K km
